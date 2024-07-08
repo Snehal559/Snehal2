@@ -23,6 +23,7 @@ public class LoginPage {
 		un.sendKeys(u);
 		ps.sendKeys(p);
 		login.click();
+		System.out.println("Changes in git");
 	}
 
 }
